@@ -1,7 +1,7 @@
 # Importing Libraries
 
 
-# Loading Data
+# Loading and preparing data
     # Train
     # Test
     
