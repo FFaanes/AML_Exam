@@ -1,0 +1,5 @@
+
+- Trenger validation dataset for training (test dataset er for testing til slutt)
+	- Splitte data manuelt?
+
+- Bruke labelme for å lage ramme rundt infeksjon?
