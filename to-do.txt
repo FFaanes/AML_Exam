@@ -5,4 +5,5 @@ X Trenger validation dataset for training (test dataset er for testing til slutt
 
 - Endre på save_augmented image funksjon (legge til bilder i ei liste, og loop over)
 
+- Lage modeller på både augmented og ikke augmented data, sammenlign forskjeller på resultat.
 
