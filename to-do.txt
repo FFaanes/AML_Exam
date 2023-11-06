@@ -1,5 +1,8 @@
 
-- Trenger validation dataset for training (test dataset er for testing til slutt)
-	- Splitte data manuelt?
+X Trenger validation dataset for training (test dataset er for testing til slutt)
 
-- Bruke labelme for å lage ramme rundt infeksjon?
+- Lagre originale bilder til data mappe i tillegg til augmenterte bilder.
+
+- Endre på save_augmented image funksjon (legge til bilder i ei liste, og loop over)
+
+
