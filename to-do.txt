@@ -4,5 +4,5 @@ X Trenger validation dataset for training (test dataset er for testing til slutt
 X Lagre originale bilder til data mappe i tillegg til augmenterte bilder.
 
 - Lage modeller på både augmented og ikke augmented data, sammenlign forskjeller på resultat.
-
-- Spør lærer om de kan bruke Jupyter notebook til å lese kode.
+ 
+X Spør lærer om de kan bruke Jupyter notebook til å lese kode. (ja)
