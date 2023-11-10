@@ -6,3 +6,14 @@ X Lagre originale bilder til data mappe i tillegg til augmenterte bilder.
 - Lage modeller på både augmented og ikke augmented data, sammenlign forskjeller på resultat.
  
 X Spør lærer om de kan bruke Jupyter notebook til å lese kode. (ja)
+
+- Prøv CNN med mindre arkitektur
+
+X Augmentere med zoom?
+
+X DataProcessor class:
+    X Rydde i if statements
+    X Legge til docstrings
+    X Fleksibilitet med parameter
+    
+- kombiner CNN plots
