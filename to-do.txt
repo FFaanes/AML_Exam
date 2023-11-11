@@ -16,4 +16,4 @@ X DataProcessor class:
     X Legge til docstrings
     X Fleksibilitet med parameter
     
-- kombiner CNN plots
+X kombiner CNN plots
