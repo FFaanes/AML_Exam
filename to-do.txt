@@ -17,3 +17,5 @@ X DataProcessor class:
     X Fleksibilitet med parameter
     
 X kombiner CNN plots
+
+- Endre Augment funksjon? (mere kontroll over mengde)
